@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/eimanesmp/cit-converter/issues"
   },
-  "homepage": "https://github.com/eimanesmp/cit-converter#readme"
+  "homepage": "https://github.com/eimanesmp/cit-converter#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
 }
