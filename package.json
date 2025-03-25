@@ -1,0 +1,23 @@
+{
+  "name": "cit-converter",
+  "version": "1.0.0",
+  "description": "converts cit textures to new minecraft 1.21.5 select model type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eimanesmp/cit-converter.git"
+  },
+  "keywords": [
+    "cit"
+  ],
+  "author": "Renato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eimanesmp/cit-converter/issues"
+  },
+  "homepage": "https://github.com/eimanesmp/cit-converter#readme"
+}
